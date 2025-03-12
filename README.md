@@ -29,7 +29,7 @@ Upcoming Milestones
 
 
 
-##About the Project
+## About the Project
 
 This project is a hands-on learning journey in RTOS development, with regular updates as new features are added.
 
