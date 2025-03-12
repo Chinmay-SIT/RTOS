@@ -18,4 +18,4 @@ The LED driver is a fundamental module that provides essential control over the 
 
 This module will serve as a basic foundation for task scheduling, synchronization, and other RTOS features in upcoming milestones.  
 
-Stay tuned for updates as the RTOS evolves! 🚀
+Stay tuned for updates as the RTOS evolves! 
