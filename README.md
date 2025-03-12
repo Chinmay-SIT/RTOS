@@ -20,8 +20,17 @@ Upcoming Milestones
     2. Add task management features
     3. Develop synchronization primitives
 
-    About the Project
+
+
+
+
+
+
+
+
+
+##About the Project
 
 This project is a hands-on learning journey in RTOS development, with regular updates as new features are added.
 
-Stay tuned for more progress! 🚀
+Stay tuned for more progress! 
